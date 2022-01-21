@@ -209,6 +209,7 @@ button {
 }
 
 .main__box_question {
+	opacity: 0;
 	padding: 60px 120px;
 	height: auto;
 	min-height: 540px;
@@ -216,6 +217,7 @@ button {
 
 .main__form-question {
 	position: relative;
+	opacity: 0;
 }
 
 .main__form-question::after {
@@ -357,6 +359,7 @@ button {
 
 
 .main__box_result {
+	opacity: 0;
 	padding: 60px;
 	display: flex;
 	flex-direction: column;
