@@ -2,6 +2,10 @@
 
 ### [Site link](https://hostlife22.github.io/quiz-time/)
 
+<kbd>
+  <img align="right" alt="img" src="EfEGggU.jpeg"  />
+ </kbd>
+
 ### The tech stack is:
 
 - [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
